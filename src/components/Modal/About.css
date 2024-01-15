@@ -1,0 +1,12 @@
+.table {
+  width: 100%;
+}
+
+.about .label {
+  text-align: left;
+  width: 50%;
+}
+
+.about .value {
+  text-align: left;
+}

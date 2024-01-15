@@ -1,0 +1,25 @@
+.generation-filter {
+  position: absolute;
+  top: 7%;
+  right: 5%;
+}
+
+.generation-filter label {
+  padding: 10px;
+  font-weight: 700;
+}
+
+#generation {
+  text-align: center;
+}
+
+@media screen and (max-width: 800px) {
+  .generation-filter {
+    position: relative;
+    top: 0;
+    right: 0;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+}

@@ -1,0 +1,27 @@
+.evolution-row .pokemon-image {
+  max-width: 50%;
+}
+
+.evolution-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.evolve-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  text-transform: capitalize;
+  font-weight: 700;
+}
+
+.level-progression {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  width: 50%;
+}

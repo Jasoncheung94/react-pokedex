@@ -1,0 +1,11 @@
+.heading > i {
+  display: inline-block;
+  height: 0.55em;
+  width: 0.55em;
+  background-image: url("../pokeball.svg");
+  background-repeat: no-repeat;
+}
+
+.heading {
+  text-align: center;
+}
