@@ -1,7 +1,3 @@
-# Project Title
-
-Pokédex React app that displays information about Pokémon using the [PokéAPI](https://pokeapi.co/).
-
 ## Table of Contents
 
 - [About](#about)
@@ -31,8 +27,8 @@ Other Pokedex projects used as reference:
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/Jasoncheung94/react-pokdex.git
-2. Navigate to the project directory: cd pokedex
-3. Install dependencies: yarn install
-4. Start the development server: yarn run dev
-5. Run linter: yarn run lint
+1. Clone the repository: `git clone https://github.com/Jasoncheung94/react-pokdex.git`
+2. Navigate to the project directory: `cd pokedex`
+3. Install dependencies: `yarn install`
+4. Start the development server: `yarn run dev`
+5. Run linter: `yarn run lint`
