@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { PokemonDetailResponse } from "../../interfaces/pokemon";
-import { getImageURL, getTypeIcon } from "../../utils/pokemonImage";
+import { getTypeIcon } from "../../utils/pokemonImage";
 import About from "./About";
 import Tabs from "./Tabs";
 import "./Modal.css";
